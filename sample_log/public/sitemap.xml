@@ -3,17 +3,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mbhusari.github.io/blog/</loc>
+    <loc>https://mbhusari.github.io/blog/sample_log/public/</loc>
     <lastmod>2026-06-01T00:13:39-07:00</lastmod>
   </url><url>
-    <loc>https://mbhusari.github.io/blog/posts/mypost/</loc>
+    <loc>https://mbhusari.github.io/blog/sample_log/public/posts/mypost/</loc>
     <lastmod>2026-06-01T00:13:39-07:00</lastmod>
   </url><url>
-    <loc>https://mbhusari.github.io/blog/posts/</loc>
+    <loc>https://mbhusari.github.io/blog/sample_log/public/posts/</loc>
     <lastmod>2026-06-01T00:13:39-07:00</lastmod>
   </url><url>
-    <loc>https://mbhusari.github.io/blog/categories/</loc>
+    <loc>https://mbhusari.github.io/blog/sample_log/public/categories/</loc>
   </url><url>
-    <loc>https://mbhusari.github.io/blog/tags/</loc>
+    <loc>https://mbhusari.github.io/blog/sample_log/public/tags/</loc>
   </url>
 </urlset>

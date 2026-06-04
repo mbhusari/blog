@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Project</title>
-    <link>https://mbhusari.github.io/blog/</link>
+    <link>https://mbhusari.github.io/blog/sample_log/public/</link>
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jun 2026 00:13:39 -0700</lastBuildDate>
-    <atom:link href="https://mbhusari.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mbhusari.github.io/blog/sample_log/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mypost</title>
-      <link>https://mbhusari.github.io/blog/posts/mypost/</link>
+      <link>https://mbhusari.github.io/blog/sample_log/public/posts/mypost/</link>
       <pubDate>Mon, 01 Jun 2026 00:13:39 -0700</pubDate>
-      <guid>https://mbhusari.github.io/blog/posts/mypost/</guid>
+      <guid>https://mbhusari.github.io/blog/sample_log/public/posts/mypost/</guid>
       <description>&lt;h4 id=&#34;my-small-title&#34;&gt;My Small Title&lt;/h4&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;message&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;message&lt;/span&gt;);
