@@ -1,4 +1,4 @@
-baseURL = 'https://mbhusari.github.io/blog/sample_log/public/'
+baseURL = 'https://mbhusari.github.io/blog/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme="PaperMod"
